@@ -1,1 +1,2 @@
 my name is durga
+Hello welcome to Git class
